@@ -3,9 +3,39 @@
   [
     {
     "id": 1,
-    "date": "26/06/2020",
-    "measure": 35,
+    "date": "20/06/2020",
+    "measure": 30,
     "place": "A"
+    },
+    {
+    "id": 2,
+    "date": "21/06/2020",
+    "measure": 15,
+    "place": "A"
+    },
+    {
+    "id": 3,
+    "date": "22/06/2020",
+    "measure": 17,
+    "place": "B"
+    },
+    {
+    "id": 4,
+    "date": "23/06/2020",
+    "measure": 25,
+    "place": "A"
+    },
+    {
+    "id": 5,
+    "date": "24/06/2020",
+    "measure": 43,
+    "place": "C"
+    },
+    {
+    "id": 6,
+    "date": "25/06/2020",
+    "measure": 50,
+    "place": "C"
     }
   ]
 }
